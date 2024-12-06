@@ -1,6 +1,7 @@
 pandas
 streamlit
 openpyxl
+plotly
 plotly.express
 plotly.io
 os
