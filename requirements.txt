@@ -2,8 +2,3 @@ pandas
 streamlit
 openpyxl
 plotly
-plotly.express
-plotly.io
-os
-concurrent.futures
-ThreadPoolExecutor
