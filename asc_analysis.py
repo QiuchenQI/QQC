@@ -83,7 +83,7 @@ def process_file(file, colors, color_index):
         
         # Save the figure to the report directory
         fig_path = os.path.join(report_dir, f"{title}.png")
-        pio.write_image(fig, fig_path, width=800, height=600)
+        pio.write_image(fig, fig_path, width=400, height=400)
         
         # Summarize durations
         if not duration_df.empty:
